@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\bin\Debug\net6.0\SecurityValidators.exe
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\bin\Debug\net6.0\SecurityValidators.deps.json
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\bin\Debug\net6.0\SecurityValidators.runtimeconfig.json
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\bin\Debug\net6.0\SecurityValidators.dll
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\bin\Debug\net6.0\SecurityValidators.pdb
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\SecurityValidators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\SecurityValidators.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\SecurityValidators.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\SecurityValidators.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\SecurityValidators.dll
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\refint\SecurityValidators.dll
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\SecurityValidators.pdb
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\SecurityValidators.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\SecurityValidators\SecurityValidators\obj\Debug\net6.0\ref\SecurityValidators.dll
